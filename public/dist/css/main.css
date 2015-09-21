@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit; }
+
+body {
+  font: 16px Helvetica, sans-serif;
+  font: 1rem Helvetica, sans-serif;
+  color: #333; }
+
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(1);
+            transform: scale(1); }
+  to {
+    -webkit-transform: scale(2);
+            transform: scale(2); } }
+
+@keyframes zoom {
+  from {
+    -webkit-transform: scale(1);
+            transform: scale(1); }
+  to {
+    -webkit-transform: scale(2);
+            transform: scale(2); } }
+
+/*# sourceMappingURL=main.css.map */
