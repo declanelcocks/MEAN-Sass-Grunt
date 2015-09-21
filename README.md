@@ -1,0 +1,2 @@
+## MEAN-Sass-Grunt
+This boilerplate is based the MEAN framework, which uses MongoDB, Express, Angular and Node.js. This boilerlate doesn't have any MongoDB databases setup, but doing this would be as easy as connecting to a database on localhost and setting up a few API routes. I have chosen Grunt to build the app, and have chosen Sass as the CSS preprocessor. In the future, I will aim to add a simple login/register feature to the homepage using MongoDB and Mongoose.
